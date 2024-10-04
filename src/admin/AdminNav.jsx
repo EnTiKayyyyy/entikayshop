@@ -13,7 +13,7 @@ const AdminNav = () => {
     const admin__nav = [
         {
             display: 'Dashboard',
-            path: '/dashboard'
+            path: '/'
         },
         {
             display: 'All Products',
